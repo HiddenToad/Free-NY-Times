@@ -1,3 +1,5 @@
 just run the exe its so easy
 
-mac only
+if you want to run the script instead of the exe, open a terminal and type "bash FreeNYTimes.sh"
+
+unix only
